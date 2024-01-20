@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #fcdca4; /* light yellow background color */
+  }
+  
+  .container {
+    background-color: #fcdca4; /* white background for the content */
+  }
+  
+  .card {
+    background-color: #fcdca4; /* light yellow background color for cards */
+    border: 1px solid black; /* add a border for better separation */
+    margin-bottom: 20px; /* add margin between cards */
+  }
