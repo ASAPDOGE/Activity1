@@ -5,9 +5,15 @@ body {
   .container {
     background-color: #fcdca4; /* white background for the content */
   }
-  
+  img {
+    height: 10%;
+    width: 10%; /* 50% of the parent container's width */
+    /* height: auto; */ /* Let the height adjust automatically */
+}
   .card {
-    background-color: #fcdca4; /* light yellow background color for cards */
+    background-color: #fdfdfd; /* light yellow background color for cards */
     border: 1px solid black; /* add a border for better separation */
     margin-bottom: 20px; /* add margin between cards */
-  }
+    padding: 15px;
+    
+  } 
